@@ -1,0 +1,1 @@
+This repository demonstrates a common CSS bug where a background image fails to load due to an incorrect or missing image path. The `bug.css` file contains the erroneous CSS code, while `solution.css` provides the corrected version.  The issue is a simple fix, but highlights the importance of verifying file paths in CSS.
